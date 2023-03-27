@@ -1,0 +1,43 @@
+.ccard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.card{
+    text-align: center;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border-color: black;
+    width: 20rem;
+    padding: 1rem;
+    margin: 5px;
+}
+.input{
+    margin: 5px;
+}
+form{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}
+.icard{
+    margin-bottom: 3px;
+}
+.icardbtn{
+    display: flex;
+    margin: 5px;
+    text-align: center;
+}
+.page{
+    text-align: center;
+}
+button{
+    background-color: tomato;
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+
+}
